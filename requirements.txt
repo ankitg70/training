@@ -4,3 +4,5 @@ Features:
 type
 color
 vibrant
+darkmode
+videocall
